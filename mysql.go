@@ -6,7 +6,7 @@ import "github.com/asim/go-micro/v3/config"
 type MysqlConfig struct {
 	Host     string `json:"host"`
 	User     string `json:"user"`
-	Passowrd string `json:"password"`
+	Password string `json:"password"`
 	Database string `json:"database"`
 	Port     string `json:"port"`
 }
