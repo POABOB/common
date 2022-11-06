@@ -1,4 +1,4 @@
-module github.com/POABOB/common
+module github.com/POABOB/utils
 
 go 1.19
 
